@@ -1,0 +1,14 @@
+<!-- filepath: public/favicon.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="22" fill="url(#paint0_radial)" stroke="#A78BFA" stroke-width="4"/>
+  <ellipse cx="32" cy="44" rx="14" ry="4" fill="#A78BFA" opacity="0.3"/>
+  <circle cx="40" cy="28" r="3" fill="#fff" opacity="0.7"/>
+  <circle cx="26" cy="24" r="2" fill="#fff" opacity="0.5"/>
+  <rect x="22" y="50" width="20" height="6" rx="3" fill="#A78BFA"/>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientTransform="translate(32 32) scale(22)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0E7FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </radialGradient>
+  </defs>
+</svg>
