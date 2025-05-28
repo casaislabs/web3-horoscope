@@ -47,7 +47,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/martinperezcss/web3-horoscope.git
+git clone https://github.com/casaislabs/web3-horoscope.git
 cd web3-horoscope
 ```
 
@@ -136,15 +136,9 @@ Open issues first if your idea is big or breaking — let’s chat before you co
 
 ---
 
-## 📄 License
-
-MIT © 2024 Martin Perez
-
----
-
 ## 🌟 Connect With the Creator
 
-💼 LinkedIn: [linkedin.com/in/martinpcs](https://linkedin.com/in/martinpcs)
+💼 LinkedIn: [linkedin.com/in/casaislabs](https://linkedin.com/in/casaislabs)
 
 ---
 
