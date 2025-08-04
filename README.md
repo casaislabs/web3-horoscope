@@ -27,7 +27,7 @@
 
 ## 🚀 Live Demo
 
-👉 [**Try the Horoscope dApp →**](https://web3-horoscope.vercel.app/)
+👉 [**Try the Horoscope dApp →**](https://web3-horoscope.casaislabs.com/)
 
 ---
 
