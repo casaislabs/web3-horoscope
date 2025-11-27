@@ -136,10 +136,4 @@ Open issues first if your idea is big or breaking — let’s chat before you co
 
 ---
 
-## 🌟 Connect With the Creator
-
-💼 LinkedIn: [linkedin.com/in/casaislabs](https://linkedin.com/in/casaislabs)
-
----
-
 ⚠️ **Disclaimer:** This dApp is for entertainment purposes only. No astrological, financial, or spiritual advice is being given. It's all blockchain fun! 🪄
